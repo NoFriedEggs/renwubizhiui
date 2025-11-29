@@ -1,0 +1,5 @@
+{
+  "name": "艾森豪威尔 AI 矩阵",
+  "description": "一个智能的四象限任务管理器，使用 Gemini 自动分析任务优先级并帮助你组织生活。",
+  "requestFramePermissions": []
+}
